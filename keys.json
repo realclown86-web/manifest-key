@@ -1,24 +1,9 @@
 {
-    "MF-88C0B-9E7KM-Y1NSH-CMXQ3": {
-        "used": true,
-        "used_by": "deathnote.13",
-        "expires": "2026-04-07 21:12:12",
-        "expires_ts": 1775585532.598402,
-        "sure_str": "1 dakika",
-        "used_at": "2026-04-07 21:11:38"
-    },
-    "MF-433GZ-0860S-2RK1Q-UT9ZO": {
+    "MF-0FKKE-K0EO6-1CXYQ-8YCNH": {
         "used": false,
         "used_by": null,
-        "expires": "2026-04-07 21:21:18",
-        "expires_ts": 1775586078.612496,
-        "sure_str": "1 dakika"
-    },
-    "MF-YB494-LFD3D-XNKDN-99JL7": {
-        "used": false,
-        "used_by": null,
-        "expires": "2026-04-07 21:27:41",
-        "expires_ts": 1775586461.415905,
-        "sure_str": "5 dakika"
+        "expires": "2026-04-07 21:37:49",
+        "expires_ts": 1775587069.323057,
+        "sure_str": "10 dakika"
     }
 }
