@@ -1,10 +1,11 @@
 {
     "MF-0FKKE-K0EO6-1CXYQ-8YCNH": {
-        "used": false,
-        "used_by": null,
+        "used": true,
+        "used_by": "deathnote.13",
         "expires": "2026-04-07 21:37:49",
         "expires_ts": 1775587069.323057,
-        "sure_str": "10 dakika"
+        "sure_str": "10 dakika",
+        "used_at": "2026-04-07 21:35:30"
     },
     "MF-HZZC8-NN1WI-N9LTV-IUDFY": {
         "used": false,
