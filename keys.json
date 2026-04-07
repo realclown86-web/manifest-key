@@ -5,5 +5,75 @@
         "expires": "2026-04-07 21:37:49",
         "expires_ts": 1775587069.323057,
         "sure_str": "10 dakika"
+    },
+    "MF-HZZC8-NN1WI-N9LTV-IUDFY": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131226,
+        "sure_str": "30 dakika"
+    },
+    "MF-RNWLR-X047R-Z5R0U-H71MA": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131294,
+        "sure_str": "30 dakika"
+    },
+    "MF-J1T6P-4BW92-AA8AY-VKEVL": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131323,
+        "sure_str": "30 dakika"
+    },
+    "MF-XB326-UVJ1Y-8DMKQ-GMWQ5": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131347,
+        "sure_str": "30 dakika"
+    },
+    "MF-4IR1R-JIW9J-A0TPB-LTDN7": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131366,
+        "sure_str": "30 dakika"
+    },
+    "MF-RTHR9-VYXES-HCPLV-4ME5Y": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131389,
+        "sure_str": "30 dakika"
+    },
+    "MF-BT24X-XIJ10-W9LU1-4JY7D": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.13141,
+        "sure_str": "30 dakika"
+    },
+    "MF-M0SLB-19SK4-MUKDR-ESD46": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131431,
+        "sure_str": "30 dakika"
+    },
+    "MF-ICVEC-EVRB1-1K82X-D8K9S": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131452,
+        "sure_str": "30 dakika"
+    },
+    "MF-HTJ2D-VIZV8-XWQRY-FZAR7": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 22:05:25",
+        "expires_ts": 1775588725.131472,
+        "sure_str": "30 dakika"
     }
 }
