@@ -1,33 +1,24 @@
 {
-    "MF-KODYM-HGNST-UXV99-EXEJ4": {
+    "MF-88C0B-9E7KM-Y1NSH-CMXQ3": {
         "used": true,
         "used_by": "deathnote.13",
-        "expires": "2026-04-08",
-        "duration_days": 1,
-        "used_at": "2026-04-07 20:42:38"
-    },
-    "MF-DH0NH-F0R7T-SVOJ2-XAAFW": {
-        "used": true,
-        "used_by": "deathnote.13",
-        "expires": "2026-05-07 20:53:24",
-        "expires_ts": 1778176404.476731,
-        "sure_str": "30 g\u00fcn",
-        "used_at": "2026-04-07 20:59:19"
-    },
-    "MF-IYRBO-QHUZY-K1A6M-5Q8Y6": {
-        "used": true,
-        "used_by": "deathnote.13",
-        "expires": "2026-04-08 20:53:31",
-        "expires_ts": 1775670811.50762,
-        "sure_str": "1 g\u00fcn",
-        "used_at": "2026-04-07 20:59:22"
-    },
-    "MF-PBRTQ-LL6AG-E0R29-AFGO5": {
-        "used": true,
-        "used_by": "deathnote.13",
-        "expires": "2026-04-07 20:59:59",
-        "expires_ts": 1775584799.18261,
+        "expires": "2026-04-07 21:12:12",
+        "expires_ts": 1775585532.598402,
         "sure_str": "1 dakika",
-        "used_at": "2026-04-07 20:59:26"
+        "used_at": "2026-04-07 21:11:38"
+    },
+    "MF-433GZ-0860S-2RK1Q-UT9ZO": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 21:21:18",
+        "expires_ts": 1775586078.612496,
+        "sure_str": "1 dakika"
+    },
+    "MF-YB494-LFD3D-XNKDN-99JL7": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-04-07 21:27:41",
+        "expires_ts": 1775586461.415905,
+        "sure_str": "5 dakika"
     }
 }
