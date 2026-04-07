@@ -8,11 +8,12 @@
         "used_at": "2026-04-07 21:35:30"
     },
     "MF-HZZC8-NN1WI-N9LTV-IUDFY": {
-        "used": false,
-        "used_by": null,
+        "used": true,
+        "used_by": "emriss1454",
         "expires": "2026-04-07 22:05:25",
         "expires_ts": 1775588725.131226,
-        "sure_str": "30 dakika"
+        "sure_str": "30 dakika",
+        "used_at": "2026-04-07 21:59:32"
     },
     "MF-RNWLR-X047R-Z5R0U-H71MA": {
         "used": false,
