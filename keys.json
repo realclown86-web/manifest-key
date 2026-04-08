@@ -16,11 +16,12 @@
         "used_at": "2026-04-07 21:59:32"
     },
     "MF-RNWLR-X047R-Z5R0U-H71MA": {
-        "used": false,
-        "used_by": null,
+        "used": true,
+        "used_by": "manifest.gg5",
         "expires": "2026-04-07 22:05:25",
         "expires_ts": 1775588725.131294,
-        "sure_str": "10 y\u00c4\u00b1l"
+        "sure_str": "10 y\u00c4\u00b1l",
+        "used_at": "2026-04-09 00:12:15"
     },
     "MF-J1T6P-4BW92-AA8AY-VKEVL": {
         "used": false,
