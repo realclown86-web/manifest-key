@@ -92,5 +92,12 @@
         "expires": "2036-04-06 00:16:39",
         "expires_ts": 2091042999.437108,
         "sure_str": "10 y\u0131l"
+    },
+    "MF-OUXP2-IV9ND-RI6EL-LQGPQ": {
+        "used": false,
+        "used_by": null,
+        "expires": "2026-05-09 22:55:41",
+        "expires_ts": 1778356541.392661,
+        "sure_str": "1 ay"
     }
 }
